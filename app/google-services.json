@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "919825359054",
+    "firebase_url": "https://getting-started-tutorial-df52c.firebaseio.com",
+    "project_id": "getting-started-tutorial-df52c",
+    "storage_bucket": "getting-started-tutorial-df52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919825359054:android:5347c19ba712d2a3",
+        "android_client_info": {
+          "package_name": "com.johnsandroidstudiotutorials.gettingstartedwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919825359054-t87fqge6i29v2h7pciseejb8c959asdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnsandroidstudiotutorials.gettingstartedwithfirebase",
+            "certificate_hash": "48128B94A14D29889329AFA5AE72B44C7B232B42"
+          }
+        },
+        {
+          "client_id": "919825359054-0r4ddjlnhg5psl904gf33dckhni5bu8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgASZHwgdnzXmsmcz9BevQrMpsEgtlC2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919825359054-0r4ddjlnhg5psl904gf33dckhni5bu8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
